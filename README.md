@@ -2,7 +2,7 @@
 
 ## I'm a Junior Software Engineer
 
-- I'm currently learning Rust (and a bunch of other stuff 😂)
+- I'm currently learning Rust (and a bunch of other stuff)
 - I'm trying to contribute to a lot of Open Source projects
 
 ### Connect with me:
