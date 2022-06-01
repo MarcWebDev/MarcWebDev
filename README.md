@@ -26,5 +26,5 @@
 <img align="left" alt="Rust" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg" style="padding-right:10px;" />
 <br/>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MarcWebDev&show_icons=true&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=MarcWebDev&show_icons=true&theme=algolia)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MarcWebDev&show_icons=true&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
