@@ -6,14 +6,14 @@
 - I'm currently learning Rust (and a bunch of other stuff)
 - I'm trying to contribute to a lot of Open Source projects
 
-### Connect with me:
+### Connect with me
 
 - Discord (MarcDev#6513)
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=MarcWebDev&show_icons=true&theme=tokyonight&hide_border=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MarcWebDev&show_icons=true&theme=tokyonight&layout=compact&hide_border=true)
 
-### Languages and Tools:
+### Languages and Tools
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
 <img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />
