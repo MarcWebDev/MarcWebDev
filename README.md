@@ -14,8 +14,7 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MarcWebDev&show_icons=true&theme=tokyonight&layout=compact&hide_border=true)
 
 ### Languages and Tools
-CI
-##########
+<h6>CI<h6>
 ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
 
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
