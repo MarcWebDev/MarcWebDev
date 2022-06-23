@@ -2,7 +2,7 @@
 
 ## I'm a Junior Software Engineer
 
-- I enjoy writing TypeScript and Java
+- I enjoy writing Java and TypeScript
 - I'm trying to contribute to many Open Source projects
 
 ### Connect with me
