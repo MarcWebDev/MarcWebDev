@@ -7,7 +7,7 @@
 
 ### Connect with me
 
-- ![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white) (MarcDev#0001)
+![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white) MarcDev#0001
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=MarcWebDev&show_icons=true&theme=tokyonight&hide_border=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MarcWebDev&show_icons=true&theme=tokyonight&layout=compact&hide_border=true)
