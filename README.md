@@ -8,7 +8,8 @@
 ### Connect with me
 
 <div style="display: flex; align-items: center;">
-<img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" /> <p style="margin-bottom: 10px">MarcDev#0001</p>
+  <img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" /> 
+  <p>MarcDev#0001</p>
 </div>
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=MarcWebDev&show_icons=true&theme=tokyonight&hide_border=true)
