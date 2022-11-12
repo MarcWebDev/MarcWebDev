@@ -2,12 +2,12 @@
 
 ## I'm a Junior Software Engineer
 
-- I enjoy writing Java and TypeScript
+- I enjoy writing TypeScript
 - I'm trying to contribute to many Open Source projects
 
 ### Connect with me
 
-- Discord (MarcDev#6513)
+- Discord (MarcDev#0001)
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=MarcWebDev&show_icons=true&theme=tokyonight&hide_border=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MarcWebDev&show_icons=true&theme=tokyonight&layout=compact&hide_border=true)
