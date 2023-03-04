@@ -4,6 +4,7 @@
 
 - I enjoy writing TypeScript
 - I'm trying to contribute to many Open Source projects
+- I'm currently learning Kotlin
 
 ### Connect with me
 
