@@ -8,7 +8,7 @@
 
 ### Connect with me
 
-<p align="left"> <a href="https://discord.com/users/799319682862809169" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=discord" width="32" height="32" /></a> <a href="https://www.twitter.com/MarcWebDev" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=twitter" width="32" height="32" /></a></p>
+<p align="left"> <a href="https://discord.com/users/799319682862809169" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=discord" width="48" height="48" /></a> <a href="https://www.twitter.com/MarcWebDev" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=twitter" width="48" height="48" /></a></p>
 
 
 ### My skills
