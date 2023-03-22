@@ -8,7 +8,7 @@
 
 ### Connect with me
 
-- Discord: MarcDev#6826
+<p align="left"> <a href="https://discord.com/users/799319682862809169" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=discord" width="32" height="32" /></a> <a href="https://www.github.com/MarcWebDev" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=github" width="32" height="32" /></a> <a href="https://www.twitter.com/MarcWebDev" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=twitter" width="32" height="32" /></a></p>
 
 
 ### My skills
