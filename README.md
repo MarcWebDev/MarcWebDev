@@ -13,4 +13,4 @@
 
 ### My skills
 
-![My Skills](https://skillicons.dev/icons?i=ts,js,html,css,figma,express,mongodb,nextjs,nodejs,react,sass,tailwind,go)
+![My Skills](https://skillicons.dev/icons?i=ts,js,html,css,figma,express,mongodb,nextjs,nodejs,react,sass,tailwind,go,java)
