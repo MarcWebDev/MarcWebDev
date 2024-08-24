@@ -12,4 +12,4 @@
 
 ### My skills
 
-![My Skills](https://skillicons.dev/icons?i=ts,js,java,go,html,css,figma,express,mongodb,nextjs,nodejs,react,sass,tailwind)
+![My Skills](https://skillicons.dev/icons?i=ts,js,go,html,css,figma,express,mongodb,nextjs,nodejs,react,sass,tailwind)
