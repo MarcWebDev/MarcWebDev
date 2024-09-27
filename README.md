@@ -3,7 +3,7 @@
 ## I'm a Software Engineer
 
 - I enjoy writing TypeScript
-- I'm currently learning Rust and Go
+- I'm currently learning Go
 
 ### Connect with me
 
